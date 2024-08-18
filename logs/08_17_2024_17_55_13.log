@@ -1,0 +1,14 @@
+[2024-08-17 17:55:14,047] 17 root - INFO - data loading started...
+[2024-08-17 17:55:42,112] 20 root - INFO - data loading completed...
+[2024-08-17 17:55:42,112] 15 __main__ - INFO - Document loaded successfully.
+[2024-08-17 17:55:43,617] 17 __main__ - INFO - Model loaded successfully.
+[2024-08-17 17:55:43,617] 25 root - INFO - 
+[2024-08-17 17:55:43,818] 29 root - INFO - 
+[2024-08-17 18:04:37,310] 33 root - INFO - 
+[2024-08-17 18:04:37,315] 19 __main__ - INFO - Gemini embedding downloaded and query engine initialized.
+[2024-08-17 18:04:37,325] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://192.168.100.28:5050
+[2024-08-17 18:04:37,325] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2024-08-17 18:04:37,345] 97 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
