@@ -1,4 +1,4 @@
-#                                                              # Medical-ChatBot
+# Medical-ChatBot
 ## *Archietecture*
 ![0_-1VO4xUaB_2zH3u4](https://github.com/user-attachments/assets/ab03974a-56f2-4c24-83b0-e67a1695d302)
 
